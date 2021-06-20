@@ -1,0 +1,1 @@
+git remote rm oring   删除文件
